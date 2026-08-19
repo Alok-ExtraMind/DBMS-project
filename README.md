@@ -4,4 +4,4 @@ This project is about organizing personal data using the SQL and GRAPH database.
 - A tool for extraMind.
 
 
-##!In Progress!
+!In Progress!
