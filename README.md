@@ -7,4 +7,4 @@ This project is about organizing personal data using the SQL and GRAPH database.
 
 
 
-!In Progress!
+!Project In Progress!
